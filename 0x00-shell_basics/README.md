@@ -6,3 +6,4 @@ ls -a - command to list all hidden files
 ls -al - command to list numerically
 mkdir - command to make directory
 mv - command to move files
+rm - command to delete file
