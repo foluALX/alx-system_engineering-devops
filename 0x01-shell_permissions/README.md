@@ -5,3 +5,4 @@ chown - changes ownership of files
 touch - create new empty files
 chown u+x - to give execute permission to file
 chmod ug+x, o+r - command to create multiple permissions
+chmod ugo+x - command to give execution permission to everyone
