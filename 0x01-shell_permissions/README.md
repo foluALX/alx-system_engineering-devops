@@ -13,3 +13,4 @@ sudo chmod -R +111 */ command to add execution permission to all subdirectories
 mkdir -m - create directory with specific permission
 chgrp - change group owner
 chown - command to change owner
+chown -h - change ownership of a symbolic link
