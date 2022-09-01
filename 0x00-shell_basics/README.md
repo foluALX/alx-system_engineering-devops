@@ -15,3 +15,4 @@ ln -s /bin/ls __ls__ - command for symbolic link
 cp -rua *.html ../ - copy html files
 mv [[:upper:]]* - moves files that start with uppercase
 rm *~ - delete all files in the current working directory that ends with ~
+mkdir -p - make multiple directories
