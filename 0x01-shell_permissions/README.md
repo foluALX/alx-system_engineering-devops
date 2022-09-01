@@ -9,3 +9,4 @@ chmod ugo+x - command to give execution permission to everyone
 chmod 007 - permission to only other users
 chmod 753 - change file mode
 chmod --reference=olleh - same mode
+sudo chmod -R +111 */ command to add execution permission to all subdirectories
