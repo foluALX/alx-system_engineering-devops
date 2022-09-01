@@ -14,3 +14,4 @@ mkdir -m - create directory with specific permission
 chgrp - change group owner
 chown - command to change owner
 chown -h - change ownership of a symbolic link
+chown --from - to change owner if only it is a specific user
