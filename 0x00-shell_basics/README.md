@@ -10,3 +10,4 @@ rm - command to delete file
 rm -r - command to delete directory
 cd .. - change directory to previous
 ls -la .. /boot - list all directories and parent
+file - to know file type
