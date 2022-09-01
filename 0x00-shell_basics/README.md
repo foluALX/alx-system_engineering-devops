@@ -17,3 +17,4 @@ mv [[:upper:]]* - moves files that start with uppercase
 rm *~ - delete all files in the current working directory that ends with ~
 mkdir -p - make multiple directories
 ls -map - list directories and separate with commas
+a magic file with a file command that can detect school data files
