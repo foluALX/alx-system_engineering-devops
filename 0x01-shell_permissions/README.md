@@ -12,3 +12,4 @@ chmod --reference=olleh - same mode
 sudo chmod -R +111 */ command to add execution permission to all subdirectories
 mkdir -m - create directory with specific permission
 chgrp - change group owner
+chown - command to change owner
