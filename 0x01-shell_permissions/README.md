@@ -8,3 +8,4 @@ chmod ug+x, o+r - command to create multiple permissions
 chmod ugo+x - command to give execution permission to everyone
 chmod 007 - permission to only other users
 chmod 753 - change file mode
+chmod --reference=olleh - same mode
