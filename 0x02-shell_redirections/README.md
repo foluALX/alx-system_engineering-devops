@@ -15,3 +15,4 @@ command to print out words that appear only once
 grep - command to find specific word
 grep- command to count specific word
 command to display a pattern and some lines after
+command to hide specific word
