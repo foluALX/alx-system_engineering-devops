@@ -22,3 +22,4 @@ command to remove letters
 command to reverse words
 command to display users and their home firectories
 display empty files and directories
+command to display gif files
