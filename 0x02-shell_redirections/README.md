@@ -18,3 +18,4 @@ command to display a pattern and some lines after
 command to hide specific word
 command to display only numbers
 command to replace letters
+command to remove letters
