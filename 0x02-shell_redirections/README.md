@@ -12,3 +12,4 @@ delete specific type of file
 list all directories except current directory and host
 command to display newest files in a directory
 command to print out words that appear only once
+grep - command to find specific word
