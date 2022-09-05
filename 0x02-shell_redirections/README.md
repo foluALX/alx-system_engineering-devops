@@ -6,3 +6,4 @@ tail- display last few lines
 head- display first few lines of a file
 dispaly a specific line
 print
+script that writes into a file
