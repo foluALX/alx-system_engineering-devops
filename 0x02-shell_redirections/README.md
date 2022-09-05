@@ -19,3 +19,4 @@ command to hide specific word
 command to display only numbers
 command to replace letters
 command to remove letters
+command to reverse words
