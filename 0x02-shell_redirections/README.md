@@ -8,3 +8,4 @@ dispaly a specific line
 print
 script that writes into a file
 duplicate last line in file
+delete specific type of file
