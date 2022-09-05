@@ -10,3 +10,4 @@ script that writes into a file
 duplicate last line in file
 delete specific type of file
 list all directories except current directory and host
+command to display newest files in a directory
