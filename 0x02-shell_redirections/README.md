@@ -7,3 +7,4 @@ head- display first few lines of a file
 dispaly a specific line
 print
 script that writes into a file
+duplicate last line in file
