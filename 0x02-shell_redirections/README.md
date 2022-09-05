@@ -24,3 +24,4 @@ command to display users and their home firectories
 display empty files and directories
 command to display gif files
 command to display acrostics
+command that parse web servers logs in tsv format and prints out the hosts
