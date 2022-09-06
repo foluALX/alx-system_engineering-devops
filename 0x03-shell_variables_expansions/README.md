@@ -8,3 +8,4 @@ script to create a local variable
 script to create global variable
 addition of variable
 division with global variables
+exponential with global variables
