@@ -15,3 +15,4 @@ script that prints a number withtwo decimal places
 script to change decimal to hexadecimal
 encode and decode with rot13
 script to print everyother line starting from the first
+script to add two numbers stored in a global variable in different base
