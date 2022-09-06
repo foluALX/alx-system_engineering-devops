@@ -9,3 +9,4 @@ script to create global variable
 addition of variable
 division with global variables
 exponential with global variables
+script to turn binary to decimal
