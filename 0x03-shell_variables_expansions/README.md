@@ -13,3 +13,4 @@ script to turn binary to decimal
 script that prints combination of two letters except one
 script that prints a number withtwo decimal places
 script to change decimal to hexadecimal
+encode and decode with rot13
